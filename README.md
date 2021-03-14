@@ -1,6 +1,5 @@
-[**Download the React Cheatsheet**](https://bit.ly/react-sheet-2021)
+## React Shopper
 
-## System Requirements
+https://cj-react-shopper.herokuapp.com/
 
-- Node 10+
-- NPM 5+
+A full-stack ecommerce app made with a Create-React-App client and Node API, using Stripe to process payments.
